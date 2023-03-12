@@ -1,0 +1,44 @@
+Altium Designer Pick and Place Locations,,,,,,,
+G:\github\cocube_maix\hardware\maix\Project Outputs for cocube_maix\Pick Place\Pick Place for PCB1.csv,,,,,,,
+,,,,,,,
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       12/03/23,,,,,,,
+Time:       20:11,,,,,,,
+Revision:   0ab794c55b0f0360eb585e8218a3ac1fd0d263b3,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mil,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mil),Center-Y(mil),Rotation,Description
+J3,BTB_10P_FEMALE,BottomLayer,BTB_10P_FEMALE,1196.85,744.095,270,
+J8,BTB_10P_FEMALE,BottomLayer,BTB_10P_FEMALE,783.465,1338.583,180,
+J7,BM02B,TopLayer,BM02B,1240.157,285.434,270,
+J6,BM03B,TopLayer,BM03B,1240.16,511.813,270,
+J5,IPEX,TopLayer,IPEX,1295.214,1339.188,0,
+U2,RTL8189FTV,TopLayer,FT89FMST13,1153.482,1000.693,270,
+R13,10 kOhms,BottomLayer,RES_0402_1005,1064,1105,180,"P2TC0402 2PPM/C 10K 0,01% N TA"
+R12,10 kOhms,BottomLayer,RES_0402_1005,1064,1158,180,"P2TC0402 2PPM/C 10K 0,01% N TA"
+R11,10 kOhms,BottomLayer,RES_0402_1005,1314.961,917.323,90,"P2TC0402 2PPM/C 10K 0,01% N TA"
+C7,10 米F,BottomLayer,CAP_0402_1005,1070.866,1000,180,CAP CER 10UF 2.5V X5R 0402
+C5,10 米F,BottomLayer,CAP_0402_1005,1070.866,1051.181,180,CAP CER 10UF 2.5V X5R 0402
+P2,FPC 18pin 0.5,TopLayer,FPC_18PIN_STAND,387.734,91.624,0,
+C6,22 米F,TopLayer,CAP_TAN_A1206,1013.779,521.654,0,CAP CER 10UF 2.5V X5R 0402
+J1,Socket,TopLayer,M.2_SMT-FEMALE_-_FULL,444.506,1370.123,0,Socket
+J2,NGFF-67P_B-KEY釱赽 4.2H詢,TopLayer,M2-67P0R50_B_FEMALE,443.128,395.325,180,
+U1,AMS1117-1.8,TopLayer,SOT89-3,1013.128,438.38,270,Sot223/Pkg 1-Amp 5-Volt Low Drop Out Voltage Regulatator
+J4,TF-01A,TopLayer,TF-01A,478.372,945.852,270,<b>Connector - Card Sockets 8 1.1mm SMD RoHS</b><p> Source: <a href=https://datasheet.lcsc.com/szlcsc/1903221101_Korean-Hroparts-Elec-TF-01A_C91145.pdf"> Datasheet </a>"
+R10,10 kOhms,TopLayer,RES_0402_1005,1006.001,620.538,270,RES 10K OHM 0.1% 1/10W 0402
+R6,10 kOhms,TopLayer,RES_0402_1005,720.096,147.727,90,"P2TC0402 2PPM/C 10K 0,01% N TA"
+R5,1.5 kOhms,TopLayer,RES_0402_1005,745.891,64.957,180,PTN0402 10PPM 1.5K 0.1% S T1 E1
+R4,10 kOhms,TopLayer,RES_0402_1005,770.096,147.727,90,"P2TC0402 2PPM/C 10K 0,01% N TA"
+R3,1.5 kOhms,TopLayer,RES_0402_1005,830.372,93.183,270,PTN0402 10PPM 1.5K 0.1% S T1 E1
+R2,22 Ohms,BottomLayer,RES_0402_1005,418.128,349.38,90,RES 22 OHM 1% 1/8W 0402
+R1,22 Ohms,BottomLayer,RES_0402_1005,468.128,349.38,90,RES 22 OHM 1% 1/8W 0402
+D2,Red,TopLayer,LED_0603_RED,956.001,620.538,90,"0402 LED RED, CLEAR LENS, 330MCD"
+C4,22 米F,TopLayer,CAP_TAN_A1206,1028.128,229.38,180,CAP CER 10UF 2.5V X5R 0402
+C3,10 米F,TopLayer,CAP_0402_1005,918.128,229.38,270,CAP CER 10UF 2.5V X5R 0402
+C2,10 米F,TopLayer,CAP_0402_1005,740.096,1083.16,90,CAP CER 10UF 2.5V X5R 0402
+C1,10 米F,TopLayer,CAP_0402_1005,67.372,144.506,270,CAP CER 10UF 2.5V X5R 0402
+J10,BTB_CAMERA,TopLayer,,1963,734.72,0,
+J9,FPC_CAMERA,BottomLayer,,2103.8,734.72,0,
